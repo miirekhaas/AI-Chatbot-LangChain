@@ -1,1 +1,10 @@
-# Add project-specific Python packages here
+python-dotenv
+openai
+langchain
+PyMuPDF
+faiss-cpu
+python-dotenv
+openai
+langchain
+PyMuPDF
+faiss-cpu
